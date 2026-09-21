@@ -1,5 +1,0 @@
-- [Google Scholar](https://scholar.google.com/) — Search for scholarly literature.
-- [arXiv](https://arxiv.org/) — Research papers and preprints.
-- [Overleaf](https://www.overleaf.com/) — Write and collaborate in LaTeX.
-- [GitHub](https://github.com/) — Code, projects, and open-source tools.
-- [Mathoverflow](https://mathoverflow.net) - A platform for communicating views of Mathematics
