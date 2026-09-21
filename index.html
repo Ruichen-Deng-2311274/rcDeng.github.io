@@ -1,0 +1,15 @@
+---
+layout: default
+nav: about
+---
+<section id="about" class="about" aria-labelledby="name-heading">
+  <header class="profile">
+    <h1 id="name-heading">{{ site.name | escape }}</h1>
+    {% if site.affiliation != '' %}<p class="affiliation">{{ site.affiliation | escape }}</p>{% endif %}
+    {% if site.email != '' %}<p class="contact"><span>Email:</span> <a href="mailto:{{ site.email | escape }}">{{ site.email | escape }}</a></p>{% endif %}
+  </header>
+  <div class="prose">
+    {% capture about %}{% include_relative content/about.md %}{% endcapture %}
+    {{ about | markdownify }}
+  </div>
+</section>

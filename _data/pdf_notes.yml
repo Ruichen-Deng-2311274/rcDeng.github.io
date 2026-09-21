@@ -1,0 +1,7 @@
+# Optional: PDF files appear automatically, even without an entry here.
+# Use the exact filename (or subfolder/filename) under assets/pdfs/ as the key.
+# All three fields below are optional. Keep the indentation at two spaces.
+"sample-pdf-note.pdf":
+  title: "Sample PDF note"
+  description: "An example PDF. Replace it with your own notes."
+  date: 2026-09-21
