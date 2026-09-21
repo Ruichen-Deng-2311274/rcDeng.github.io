@@ -1,10 +1,10 @@
-## About (this is a test)
+## About 
 
-Welcome to my homepage. 
+Welcome to my homepage. This website is a work in progress.
 
 ### Education
 
-Bs.C in Math(Major) and Physics(Minor) Nankai University, Tianjin, Chinese mainland. 
+B.Sc in Mathematics(Major) and Physics(Minor) Nankai University, Tianjin, Chinese mainland. (expecting to graduate in 2027/2028)
 
 ### Research Interests (for a living)
 
@@ -12,12 +12,12 @@ Bs.C in Math(Major) and Physics(Minor) Nankai University, Tianjin, Chinese mainl
 - Bioinformatics
 - High-dimensional statistics
 
-### Research Interests (for ideal)
+### Research Interests (for the love of it)
 
 - Differentiable Geometry 
 - General Relativity
 - Theoretical Physics
 
-### Accounts (welcome to follow)
+### Accounts (Find Me Online)
 
-- Kaggle: soraynn(username) 33519942(account number)
+- Kaggle: soraynn
