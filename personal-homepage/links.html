@@ -1,0 +1,12 @@
+---
+layout: default
+title: Useful Links
+nav: links
+---
+<section aria-labelledby="links-heading">
+  <h1 id="links-heading" class="page-title">Useful Links</h1>
+  <div class="prose useful-links">
+    {% capture links %}{% include_relative content/links.md %}{% endcapture %}
+    {{ links | markdownify }}
+  </div>
+</section>
