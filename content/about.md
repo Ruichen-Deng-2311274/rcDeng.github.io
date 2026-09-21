@@ -14,7 +14,7 @@ B.Sc in Mathematics(Major) and Physics(Minor) Nankai University, Tianjin, Chines
 
 ### Research Interests (for the love of it)
 
-- Differentiable Geometry 
+- Differential geometry
 - General Relativity
 - Theoretical Physics
 
