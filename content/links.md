@@ -10,3 +10,9 @@
 - [Psychological Science Data Bank](https://www.scidb.cn/psych) - Data bank for researchers working at the intersection of psychological Science and statistics.
 - [LaTeXLive](https://www.latexlive.com) -An online equation editor that converts images of formulas into LaTeX code. (perhaps AI will let this one retire someday).
 - [Mathematics in Lean](https://leanprover-community.github.io/mathematics_in_lean/) - A hands-on introduction to formalizing mathematics in Lean.
+- [Terence Tao — What’s New](https://terrytao.wordpress.com/)
+- [Proofs and Prompts](https://proofsandprompts.com/)
+- [VibeMathed](https://vibemathed.com/)
+- [Gowers’s Weblog](https://gowers.wordpress.com/)
+- [Xena Project](https://xenaproject.wordpress.com/)
+- [MathArena](https://matharena.ai/)
